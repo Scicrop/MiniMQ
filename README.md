@@ -1,4 +1,21 @@
-# Getting Started
+# MiniMQ
+
+### Variáveis de Ambiente
+
+As variáveis de ambiente necessárias podem ser encontradas no arquivo env.bash_example. Antes de seguir para seção de [Deploy](), preencha o arquivo env e execute:
+
+```bash
+  source env.bash_example
+```
+
+### Deploy
+
+> Ler a seção de [Variáveis de Ambiente]() antes de seguir.
+
+```bash
+  make run
+```
+
 
 ### Reference Documentation
 
