@@ -8,11 +8,11 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.scicrop</groupId>
+	<groupId>com.scicrop</groupId>
 	<artifactId>MiniMQApi</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>MiniMQApi</name>
-	<description>Demo project for Spring Boot</description>
+	<description>MiniMQ project</description>
 	<url/>
 	<licenses>
 		<license/>
