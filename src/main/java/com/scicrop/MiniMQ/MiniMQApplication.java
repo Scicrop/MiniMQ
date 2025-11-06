@@ -1,13 +1,13 @@
-package com.scicrop.MiniMQApi;
+package com.scicrop.MiniMQ;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MiniMqApiApplication {
+public class MiniMQApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MiniMqApiApplication.class, args);
+		SpringApplication.run(MiniMQApplication.class, args);
 	}
 
 }

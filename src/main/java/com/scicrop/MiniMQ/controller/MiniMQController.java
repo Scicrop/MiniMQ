@@ -1,10 +1,10 @@
-package com.scicrop.MiniMQApi.controller;
+package com.scicrop.MiniMQ.controller;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.scicrop.MiniMQApi.service.MiniMQService;
+import com.scicrop.MiniMQ.service.MiniMQService;
 
 @RestController
 @RequestMapping("/api/minimq")

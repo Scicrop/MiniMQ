@@ -1,4 +1,4 @@
-package com.scicrop.MiniMQApi.model;
+package com.scicrop.MiniMQ.model;
 
 import java.io.File;
 import java.io.IOException;

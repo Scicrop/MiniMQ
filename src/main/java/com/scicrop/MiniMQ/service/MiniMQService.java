@@ -1,4 +1,4 @@
-package com.scicrop.MiniMQApi.service;
+package com.scicrop.MiniMQ.service;
 
 import java.io.IOException;
 import java.lang.management.ManagementFactory;
@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.scicrop.MiniMQApi.model.QueueItem;
+import com.scicrop.MiniMQ.model.QueueItem;
 
 public class MiniMQService {
   private Thread thread;
